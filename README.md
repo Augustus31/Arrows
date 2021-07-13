@@ -8,7 +8,6 @@ Made in Python with Pygame. You are free to use and modify this game in any way 
 
 
 
-
-Download zip and see more info at https://honorius.itch.io/arrows
+*This repository is for source code. If you want to download the executable build, go to https://honorius.itch.io/arrows.
 
 
